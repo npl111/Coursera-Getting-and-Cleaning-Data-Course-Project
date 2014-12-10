@@ -12,15 +12,18 @@ Name the activities by linking to the activity name file
 
 Combine the three tables and name the collumns
 
-create tidy data set with the average of each variable for each activity and each subject
+Create and output tidy data set with the average of each variable for each activity and each subject
 
 Final Data Set Variables
 
 The final data set contains four collumns of data (Activity, Subject, Variable, x)
 
 Activity is the type of Activity that the Subject is engaging when measurement is taken
+
 Subject is the person that is performing the activity
+
 Variable is the particular measurement type that is taken for the specific subject and activity
+
 X is the measurement itself which is actually the mean of numerous measurements taken for that subject, activity and measurement type
 
 
