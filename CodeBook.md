@@ -24,7 +24,7 @@ Final Data Set Variables:
 
 	Variable = the particular measurement type that is taken for the specific subject and activity
 
-	X = the measurement itself which is actually the mean of numerous measurements taken for that subject, activity and measurement type
+	x = the measurement itself which is actually the mean of numerous measurements taken for that subject, activity and measurement type
 
 
 
