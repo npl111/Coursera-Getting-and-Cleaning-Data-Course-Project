@@ -2,7 +2,7 @@ Process:
 
 	Read Test and Training Data in to 6 separated tables (3 test and 3 train)
 
-	Rename the Y Variables in each "y" data tables to "Activity" as it represents the activity that needs to be predicted/identified in an eventual model
+	Rename the Y Variables in each "y" data tables to "Activity" as it represents the activity that needs to be 		predicted/identified in an eventual model
 
 	Combine the test and training data in to one data set (down to three tables)
 
