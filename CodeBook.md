@@ -1,4 +1,4 @@
-Process
+Process:
 
 Read Test and Training Data in to 6 separated tables (3 test and 3 train)
 
@@ -13,6 +13,8 @@ Name the activities by linking to the activity name file
 Combine the three tables and name the collumns
 
 create tidy data set with the average of each variable for each activity and each subject
+
+Final Data Set Variables
 
 The final data set contains four collumns of data (Activity, Subject, Variable, x)
 
